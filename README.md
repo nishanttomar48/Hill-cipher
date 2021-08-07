@@ -1,5 +1,5 @@
 Hill-Cipher
-How often we need to send someone a message and make sure no one else reads it. To encounter this problem the messages sent across to others are encoded more often than not. The algorithms used are as complex as Nazi’s Enigma and as simple as Caesar Cipher. Hill Cipher, invented by Lester S Hill in 1029, is a polygraphic substitution cipher based on Linear Algebra and particular requires the user to have an elementary understanding of the matrices. In this project, we have developed an extended algorithm for Hill Cipher (both for encryption and decryption) and implement it on MATLAB and C++.
+How often we need to send someone a message and make sure no one else reads it. To encounter this problem the messages sent across to others are encoded more often than not. The algorithms used are as complex as Nazi’s Enigma and as simple as Caesar Cipher. Hill Cipher, invented by Lester S Hill in 1029, is a polygraphic substitution cipher based on Linear Algebra and particular requires the user to have an elementary understanding of the matrices. In this project, we have developed an extended algorithm for Hill Cipher (both for encryption and decryption) and implement it on MATLAB 
 
 MATLAB
 Hill_Cipher.m : this file contains 'main' function
